@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.xls
+
+__pycache__/
+*.pyc
+
+*.png
+*.jpg
+*.txt
+DEBUG_*.html
+
+undetected_chromedriver/
